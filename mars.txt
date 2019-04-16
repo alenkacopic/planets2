@@ -1,3 +1,8 @@
 this is a file for Git exercise
 This is the second line that we add
+<<<<<<< HEAD
+Add one more line
+=======
+Something added
+>>>>>>> 2776f37a6bd776aa50bf7d219ce47a278c0c55f7
 Add one more line
